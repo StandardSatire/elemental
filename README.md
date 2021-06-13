@@ -1,2 +1,2 @@
 # skybit
-An object-oriented framework for a function environment.
+An object-oriented framework for a functional environment.
