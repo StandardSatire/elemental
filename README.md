@@ -1,2 +1,2 @@
 # skybit
-Roblox Skybit framework
+An object-oriented framework for a function environment.
